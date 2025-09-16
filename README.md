@@ -35,3 +35,4 @@ project-log/
 *This repository is part of my learning process. The content and structure will evolve as I learn more.*
 
 This is my public learning log
+I'm using this to track my progress
